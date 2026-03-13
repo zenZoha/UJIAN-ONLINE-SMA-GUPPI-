@@ -1,2 +1,2 @@
-# UJIAN-ONLINE-SMA-GUPPI-
+# SMA-GUPPI-
 Ujian online 
